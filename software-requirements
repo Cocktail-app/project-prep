@@ -1,0 +1,31 @@
+# Software Requirements
+
+## Vision
+
+This product will take some ambiguity and decision-making out of your evening cocktail choice. Instead of focusing exclusively on ingredients, you can choose what energy you want to cap the day with. By taking you out of your comfort zone, while staying within your on-hand ingredients, you'll be able to expand your cocktail repertoire.
+
+## Scope
+
+### IN - What our product will do
+
+This web app will only allow users above the age of 21 into the site, due to its content. It will provide recipes to the user based on their available ingredients (namely, a main liquor) and desired drinking vibe. It will return a recipe card and a classy photo directly to the user, and will also save the recipes to their personalized cocktail collection - viewable on a
+
+### OUT - What our product will not do
+
+This product will not allow users under the age of 21 to view its content. It will not access external database info through API's - it will instead pull from hard-coded data we provide.
+
+## Minimum Viable Product
+
+* An About Us page with information about the four of us w/ contact info.
+
+* An Index/homepage to land on with a name, a summary of our site, and simple input by user. (a form, some radio buttons to select a main alcohol of choice, a radio button for your vibe, and a submit button... sent to local storage for access across site)
+
+* A Content page with the recommendations from our bartender Vinny.
+
+* User cocktail list based on local storage.
+
+## Stretch goals
+
+* Graphic based selections with events
+* Randomize multiple recipes to show for each vibe/liquor combo
+* Build out landing page for under-21 users
